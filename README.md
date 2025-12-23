@@ -25,7 +25,8 @@ This project presents an interactive Power BI dashboard to analyze Adidas sales 
 🔷 Outcome :
  The dashboard helps users easily explore EV market trends, compare performance across regions, and gain actionable insights through an intuitive and interactive interface.
 
-🔷 Screenshort :
+🔷 screensot / Demo : <img width="1207" height="680" alt="Adidas Sales Analysis Dashboard" src="https://github.com/user-attachments/assets/68b093c8-acac-4aee-a7e8-da67cb923bed" />
+
 
 
 
